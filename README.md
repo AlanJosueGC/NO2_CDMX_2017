@@ -1,4 +1,4 @@
-EL problema que nos interesa es sobre la contaminaci?n del aire, para ello 
+EL problema que nos interesa es sobre la contaminación del aire, para ello 
 obtenemos nuestros datos del siguiente enlace
 
 http://www.aire.cdmx.gob.mx/default.php?opc=%27aKBhnmI=%27&opcion=aw==
